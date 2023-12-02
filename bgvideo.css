@@ -1,0 +1,21 @@
+.bgvideo {
+    height:75vh;
+    width: 100%;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}.bgvideo video{
+    height:75vh;
+    width: 100%;
+    position:absolute ;
+    top:0;
+    left:0;
+    object-fit: cover;
+}
+body{
+    background-image:url(https://w.forfun.com/fetch/50/50895223ece90067aa2a4de044841504.jpeg);
+    background-size:cover;
+  
+
+}
