@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROJECT</title>
+    <link rel="stylesheet" href="style of the wods/style.css">
+    <link rel="stylesheet" href="style of the wods/bgvideo.css">
+<style>
+  body {font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-image: url(https://t3.ftcdn.net/jpg/01/83/50/32/360_F_183503230_heDoLySnwt4W968RVTJOf7LFHbkZdCHA.jpg);
+        background-size: cover;
+        background-position: center;
+        animation: fadeIn 5s;
+        background-color: #000000; 
+        color: #fafafa; }
+.header { padding: 20px; text-align: center; background-image: url(https://t3.ftcdn.net/jpg/02/07/15/44/360_F_207154437_SzrbwzWsAd53BQI067uogDFwjEfzcZou.jpg); color: #fafafa; }
+
+.nav { background: #151515; padding: 20px; display: flex; justify-content: space-around; color: #fafafa; }
+
+.nav a { color: #fafafa; text-decoration: none; }
+
+.nav a:hover { color: #aaa; }
+
+.cpa { display: flexbox; justify-content: space-around; padding: 20px; }
+
+.cpal {background-color: #000000;  padding: 20px; margin: 20px; max-width: 300px; border-radius: 5px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); transition: box-shadow 0.3s; color: ; }
+
+.cpal img { width: 300px; height: auto; }
+
+.cpal a { color: #fafafa; text-decoration: none; }
+
+.cpal a:hover { color: #aaa; }
+.text sitemaps {
+       display: flex;
+}
+
+
+@media screen and (max-width: 700px) { .cpa { flex-direction: column; } }
+.container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: rgba(2, 0, 0, 0.7);
+            border-radius: 5px;
+        }
+@keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+</style>
+
+<style>
+.navspace>nav>ul>input{
+  width:300px;
+  height:30px;
+  font-size:15px;
+}
+</style>
+ 
+</head>
+
+<body>
+ 
+ <a href="https://www.simplilearn.com/pgp-ai-machine-learning-certification-training-course?source=sidebarwidgetexperiment" title="Professional Certificate Program In AI And Machine Learning" target="_blank"></div></div><div id="ResourceDetails" class="detail-category"><div><div id="articlePage"><div><div class="detail-banner article-banner-details banner-height"><div class="article-info test-class"><h1>18 New Technology Trends for 2024: New Tech Horizons</h1><div id="autorLinks"></div><div class="right-widget-main"><div class="img-bg-colr"><img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Technology_Trends.jpg" content="max-image-preview:standard" alt="Top 18 New Technology Trends for 2024" title="Top 18 New Technology Trends for 2024" width="375" height="211" fetchpriority="high"/></div></div></div><div id="jumpLinks"><div class="jump-links-wrap"></div></div><div class="info-details"><div id="articleLongDescription"><article class="desig_author empty-text"><span class="first-elemnt"></span> <!-- -->
+      <p>Technology today is evolving at a rapid pace, enabling faster change and progress, causing an acceleration of the rate of change. However, it is not only technology trends and emerging technologies that are evolving, a lot more has changed, making IT professionals realize that their role will not stay the same in the contactless world tomorrow. And an IT professional in 2024 will constantly be learning, unlearning, and relearning (out of necessity, if not desire).</p>
+      <p>What does this mean for you? It means staying current with emerging technologies and latest technology trends. And it means keeping your eyes on the future to know <a href="https://www.simplilearn.com/tech-companies-ensure-new-hires-have-real-world-skills-article" target="_blank" rel="noopener" title="which skills">which skills</a> you’ll need to know to secure a safe job tomorrow and even learn how to get there. Here are the top 18 emerging technology trends you should watch for and make an attempt at in 2024, and possibly secure one of the jobs that will be created by these new technology trends. Starting the list of new tech trends with the talk of the town, gen-AI!</p>
+      <details>
+        <summary>
+            <article>
+                <h2 id="1_generativeai">1. Generative-AI</h2>
+            </article>
+        </summary>
+        <p>Generative AI, a cutting-edge technology, has revolutionized various industries by enabling machines to create content that resembles human-generated work. It encompasses a wide range of applications, from text generation to image synthesis and even music composition. After mastering generative AI, individuals can pursue exciting job roles in fields such as artificial intelligence research, data science, and creative industries. The ever-expanding applications of generative AI promise a bright future for those who master this technology, offering opportunities to shape how we interact and create content in the digital age. Some of the top job roles include:</p>
+        <ul>
+            <li>AI Researcher, where you can delve deep into the development of advanced generative models</li>
+            <li>Data Scientist, using generative AI to extract valuable insights from data</li>
+            <li>Content Creator, harnessing generative AI for innovative storytelling</li>
+            <li>AI Ethics Consultant, addressing the ethical implications of AI-generated content</li>
+        </ul>
+        <div banner-id="64f18285f04340e0288b4568" index="2" class="engagingBanner">
+            <div class="detail-info-banner" data-reactroot="">
+                <div class="left-clm">
+                    <h4>Learn the Latest Advancements in the AI Space</h4>
+                    <span class="discription">Professional Certificate Course In AI &amp; ML</span>
+                    <a href="https://www.simplilearn.com/iitk-professional-certificate-course-ai-machine-learning?source=GhPreviewCTABanner" target="_blank" class="btn">EXPLORE PROGRAM</a>
+                </div>
+                <div class="right-clm">
+                    <img class="lazy" width="16" height="9" src="https://www.simplilearn.com/ice9/assets/form_opacity.png" data-src="https://www.simplilearn.com/ice9/banners/free_resources_banners/lead_banners/Genrative_AI_Vector_1.png" alt="Learn the Latest Advancements in the AI Space"/>
+                </div>
+            </div>
+        </div>
+    </details>
+      <details><summary><article><h2 id="2_computing_power">2. Computing Power </h2></summary>
+      <p>Computing power has already established its place in the digital era, with almost every device and appliance being computerized. And it’s here for even more as data science experts have predicted that the computing infrastructure we are building right now will only evolve for the better in the coming years. At the same time, we have 5G already; gear up for an era of 6G with more power in our hands and devices surrounding us. Even better, computing power is generating more tech jobs in the industry but would require specialized qualifications for candidates to acquire.</p>
+      <p>From data science to robotics and IT management, this field will power the largest percentage of employment in every country. The more computing our devices will need, the more technicians, IT teams, relationship managers, and the customer care economy will flourish. One essential branch under this field that you can learn today is <a href="https://www.simplilearn.com/tutorials/rpa-tutorial/what-is-rpa" target="_blank" rel="noopener" title="RPA, i.e. Robotic Process Automation">RPA, i.e. Robotic Process Automation</a>. Here are the top jobs you can target after RPA: </p>
+      <ul>
+      <li aria-level="1">Data Scientist</li>
+      <li aria-level="1">AI Engineer</li>
+      <li aria-level="1">Robotics Researcher</li>
+      <li aria-level="1">AI Architect</li>
+      <li aria-level="1">Robotics Designer</li>
+      </ul>
+      <div banner-id="64f181cde3ab46e76f8b4568" index="1" class="engagingBanner"><div class="detail-info-banner" data-reactroot=""><div class="left-clm"><h4>Join the Ranks of AI Innovators</h4><span class="discription">UT Dallas AI and Machine Learning Bootcamp</span><a href="https://www.simplilearn.com/ai-and-ml-engineer-bootcamp?source=GhPreviewCTABanner" target="_blank" class="btn">EXPLORE PROGRAM</a></div><div class="right-clm"><img class="lazy" width="16" height="9" src="https://www.simplilearn.com/ice9/assets/form_opacity.png" data-src="https://www.simplilearn.com/ice9/banners/free_resources_banners/lead_banners/Genrative_AI_Vector_1.png" alt="Join the Ranks of AI Innovators"/></div></div></div></article></details><details><summary><article><h2 id="3_smarter_devices">3. Smart(er) Devices </h2></summary>
+      <p>Artificial intelligence has played an essential role in making our world smarter and smoother. It is not just simulating humans but going the extra mile to make our lives hassle-free and simpler. These smarter devices are here to stay in 2024 and even further, as data scientists are working on AI home robots, appliances, work devices, wearables, and so much more! Almost every job needs smart software applications to make our work life more manageable. Smarter devices are another addition to the IT industry that is of high requirement and demand as more companies transform into digital spaces. Almost every higher-level job requires good IT and automation proficiency to thrive. Here are the best jobs you can venture into:</p>
+      <ul>
+      <li aria-level="1">IT Manager</li>
+      <li aria-level="1">Data Scientists</li>
+      <li aria-level="1">Product Testers</li>
+      <li aria-level="1">Product Managers</li>
+      <li aria-level="1">Automation Engineers</li>
+      <li aria-level="1">IT Researchers</li>
+      </ul>
+      <div banner-id="652cd88b8c4740b6548b4567" index="8" class="engagingGroupBanner"><div class="detail-info-banner" data-reactroot=""><div class="left-clm"><h4>Become a Data Scientist with Hands-on Training!</h4><span class="discription">Data Scientist Master’s Program</span><a href="https://www.simplilearn.com/big-data-and-analytics/senior-data-scientist-masters-program-training?source=GhPreviewCTABanner" target="_blank" class="btn">Explore Program</a></div><div class="right-clm"><img class="lazy" width="16" height="9" src="https://www.simplilearn.com/ice9/assets/form_opacity.png" data-src="https://www.simplilearn.com/ice9/banners/free_resources_banners/lead_banners/DS_Job_Guarantee.png" alt="Become a Data Scientist with Hands-on Training!"/></div></div></div></article></details><details><summary><article><h2 id="4_datafication">4. Datafication </h2></summary>
+      <p>Datafication is simply transforming everything in our lives into devices or software powered by data. So, in short, Datafication is the modification of human chores and tasks into data-driven technology. From our smartphones, industrial machines, and office applications to AI-powered appliances and everything else, data is here to stay for longer than we can ever remember! So, to keep our data stored correctly and securely and safely, it has become an in-demand specialization in our economy. </p>
+      <p>Datafication leads to a higher need for IT professionals, data scientists, engineers, technicians, managers, and so much more. Even more useful is that anyone with a sound knowledge of technology can do a certification in data-related specializations to find a job in this space. Data jobs are more about skills than big-level qualifications. Let’s look at some popular data careers:</p>
+      <ul>
+      <li aria-level="1"><a href="https://www.simplilearn.com/tutorials/big-data-tutorial/how-to-become-big-data-engineer" target="_blank" rel="noopener" title="Big Data Engineers">Big Data Engineers</a></li>
+      <li aria-level="1"><a href="https://www.simplilearn.com/rpa-a-place-to-get-started-with-ai-article" target="_blank" rel="noopener" title="Robotics Engineers">Robotics Engineers</a></li>
+      <li aria-level="1"><a href="https://www.simplilearn.com/it-architect-article" target="_blank" rel="noopener" title="IT Architect">IT Architect</a></li>
+      <li aria-level="1"><a href="https://www.simplilearn.com/certifications/business-intelligence-courses" target="_blank" rel="noopener" title="Business Intelligence Analyst">Business Intelligence Analyst</a></li>
+      <li aria-level="1"><a href="https://www.simplilearn.com/tutorials/data-science-tutorial/how-to-become-a-data-scientist" target="_blank" rel="noopener" title="Data Scientists">Data Scientists</a></li>
+      </ul>
+      <p><div banner-id="648aa578e3ab469f0c8b45c1" index="3" class="engagingGroupBanner"><div class="detail-info-banner" data-reactroot=""><div class="left-clm"><h4>Master the Right AI Tools for the Right Job!</h4><span class="discription">Caltech Post Graduate Program in AI &amp; ML</span><a href="https://www.simplilearn.com/artificial-intelligence-masters-program-training-course?source=GhPreviewCTABanner" target="_blank" class="btn">Explore Program</a></div><div class="right-clm"><img class="lazy" width="16" height="9" src="https://www.simplilearn.com/ice9/assets/form_opacity.png" data-src="https://www.simplilearn.com/ice9/banners/free_resources_banners/lead_banners/PG_AIML.png" alt="Master the Right AI Tools for the Right Job!"/></div></div></div></p>
+      
+      </details>
+      </article><details><summary><article><h2 id="5_artificial_intelligence_ai_and_machine_learning">5. Artificial Intelligence (AI) and Machine Learning</h2></summary>
+      <p><a href="https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/what-is-artificial-intelligence" target="_blank" rel="noopener" title="Artificial Intelligence">Artificial Intelligence</a>, or AI, has already received a lot of buzz in the past decade. Still, it continues to be one of the new technology trends because of its notable effects on how we live, work and play are only in the early stages. AI is already known for its superiority in image and speech recognition, navigation apps, smartphone personal assistants, ride-sharing apps and so much more.</p>
+      <p>Other than that, AI will be used further to analyze interactions to determine underlying connections and insights, to help predict demand for services like <a href="https://www.simplilearn.com/ai-in-healthcare-article" target="_blank" rel="noopener" title="hospitals">hospitals</a> enabling authorities to make better decisions about resource utilization, and to detect the changing patterns of <a href="https://www.simplilearn.com/using-ai-in-ecommerce-the-complete-guide-pdf?source=frs_category" target="_blank" rel="noopener" title="customer behaviour">customer behaviour </a>by analyzing data in near real-time, driving revenues and enhancing personalized experiences. With AI spreading its wings across sectors, new jobs will be created in development, programming, testing, support and maintenance, to name a few. On the other hand AI also offers some of the <a href="https://www.simplilearn.com/highest-paying-tech-jobs-article" target="_blank" rel="noopener" title="highest salaries">highest salaries</a> today!</p>
+      <p><a href="https://www.simplilearn.com/tutorials/machine-learning-tutorial/what-is-machine-learning" target="_blank" rel="noopener" title="Machine Learning">Machine Learning</a> the subset of AI, is also being deployed in all kinds of industries, creating a huge demand for skilled professionals. <a href="https://www.forrester.com/press-newsroom/" target="_blank" rel="noopener" title="Forrester predicts">Forrester predicts</a> AI, machine learning, and automation will create 9 percent of new U.S. jobs by 2025, jobs including robot monitoring professionals, data scientists, automation specialists, and content curators, making it another new technology trend you must keep in mind too!</p>
+      <p>Mastering <a href="https://www.simplilearn.com/top-artificial-intelligence-career-choices-and-ai-key-skills-article" target="_blank" rel="noopener" title="AI and machine learning">AI and machine learning</a> will help you secure jobs like:</p>
+      <ul>
+      <li aria-level="1">AI Research Scientist</li>
+      <li aria-level="1">AI Engineer</li>
+      <li aria-level="1">Machine Learning Engineer</li>
+      <li aria-level="1">AI Architect</li>
+      </ul>
+      <p><div banner-id="648aa9d2f0434021318b456c" index="4" class="engagingGroupBanner"><div class="detail-info-banner" data-reactroot=""><div class="left-clm"><h4>Master the Right AI Tools for the Right Job!</h4><span class="discription">Caltech Post Graduate Program in AI &amp; ML</span><a href="https://www.simplilearn.com/artificial-intelligence-masters-program-training-course?source=GhPreviewCTABanner" target="_blank" class="btn">Explore Program</a></div><div class="right-clm"><img class="lazy" width="16" height="9" src="https://www.simplilearn.com/ice9/assets/form_opacity.png" data-src="https://www.simplilearn.com/ice9/banners/free_resources_banners/lead_banners/PG_AIML.png" alt="Master the Right AI Tools for the Right Job!"/></div></div></div></p>
+      
+      
+      </article></details><details><summary><article><h2 id="6_extended_reality">6. Extended Reality </h2></summary>
+      <p>Extended reality comprises all the technologies that simulate reality, from Virtual Reality, Augmented Reality to Mixed Reality and everything else in-between. It is a significant technology trend right now as all of us are craving to break away from the so-called real boundaries of the world. By creating a reality without any tangible presence, this technology is massively popular amongst gamers, medical specialists, and retail and modeling.</p>
+      <p>Regarding extended reality, gaming is a crucial area for popular careers that don’t require high-level qualifications but rather a passion for online gaming. You can pursue game design, animation or even editing programs to pursue a successful career in this specialization. Meanwhile, check out the best jobs in AR, VR as well as ER:</p>
+      <ul>
+      <li aria-level="1">Extended Reality Architect</li>
+      <li aria-level="1">Front Lead Engineer</li>
+      <li aria-level="1">Software Developer</li>
+      <li aria-level="1">AR/VR Support Engineers</li>
+      <li aria-level="1">Game Designers</li>
+      <li aria-level="1">Pro Gamers</li>
+      <li aria-level="1">Creative Directors</li>
+      </ul></article></details><details><summary><article><h2 id="7_digital_trust">7. Digital Trust </h2></summary>
+      <p>With people being accommodated and tangled with devices and technologies, confidence and trust have been built towards digital technologies. This familiar digital trust is another vital trend leading to more innovations. With digital conviction, people believe that technology can create a secure, safe and reliable digital world and help companies invent and innovate without worrying about securing the public’s confidence. </p>
+      <p>To create a safer space for digital users, cybersecurity and ethical hacking are the major specializations you can check out. In these two, there is an array of jobs you can discover from junior to senior levels. For ethical hacking, you might have to take up professional certifications, while for cybersecurity, a diploma or even a master’s qualification is sufficient to aim for a high-salary role. Here are the top jobs you can find in cybersecurity and ethical hacking:</p>
+      <ul>
+      <li aria-level="1">Cybersecurity Analyst</li>
+      <li aria-level="1">Penetration Tester</li>
+      <li aria-level="1">Security Engineer</li>
+      <li aria-level="1">Security Architect</li>
+      <li aria-level="1">Security Automation Engineer</li>
+      <li aria-level="1">Network Security Analyst</li>
+      </ul>
+      <p><div banner-id="648abf84e3ab4657568b456e" index="7" class="engagingGroupBanner"><div class="detail-info-banner" data-reactroot=""><div class="left-clm"><h4>Clear CompTIA, CEH, and CISSP Certifications!</h4><span class="discription">Cyber Security Expert Master&#x27;s Program</span><a href="https://www.simplilearn.com/cyber-security-expert-master-program-training-course?source=GhPreviewCTABanner" target="_blank" class="btn">Explore Program</a></div><div class="right-clm"><img class="lazy" width="16" height="9" src="https://www.simplilearn.com/ice9/assets/form_opacity.png" data-src="https://www.simplilearn.com/ice9/banners/free_resources_banners/lead_banners/Cyber_Security_Expert_Masters_Program.png" alt="Clear CompTIA, CEH, and CISSP Certifications!"/></div></div></div></p>
+      
+      
+      </article></details><details><summary><article><h2 id="8_3d_printing">8. 3D Printing </h2></summary>
+      <p>A key trend in innovation and technology is 3D printing which is used to formulate prototypes. This technology has been impactful in the biomedical and industrial sectors. None of us thought of printing a real object from a printer, while right now, it’s a reality. So, 3D printing is another innovation that’s here to stay. For companies in the data and <a href="https://www.simplilearn.com/healthcare-technology-and-pharma-technology-trends-article" target="_blank" rel="noopener" title="healthcare">healthcare</a> sector that require a lot of 3D printing for their products, various jobs pay well and are international. You only need a sound knowledge of AI, Machine Learning, Modeling, and 3D printing. Let’s check out the best jobs in this specialization:</p>
+      <ul>
+      <li aria-level="1">CX Program Manager</li>
+      <li aria-level="1">3D Printer Engineer</li>
+      <li aria-level="1">Emulation Prototyping Engineer</li>
+      <li aria-level="1">Robotics Trainer</li>
+      <li aria-level="1">AI Engineer</li>
+      <li aria-level="1">Operations Manager</li>
+      <li aria-level="1">Organ &amp; Prosthetic Designer</li>
+      </ul></article></details><details><summary><article><h2 id="9_genomics">9. Genomics </h2></summary>
+      <p>Imagine a technology that can study and use your DNA to improve your health, helping you fight diseases and whatnot! Genomics is precisely that technology that peruses upon the make-up of genes, DNAs, their mapping, structure, etc. Further, this can help quantify your genes and result in finding diseases or any possible problems that can later be a health issue. When it comes to a specialization like Genomics, one can find a variety of technical as well as non-technical roles. Technical jobs in this area are all about designing, analyzing, and diagnostics, while non-technical jobs are concerned with higher levels of research and theoretical analysis. Here are the top jobs in Genomics:</p>
+      <ul>
+      <li aria-level="1">Bioinformatics Analyst</li>
+      <li aria-level="1">Genome Research Analyst</li>
+      <li aria-level="1">Full Stack Developer</li>
+      <li aria-level="1">Software Engineer</li>
+      <li aria-level="1">Bioinformatician</li>
+      <li aria-level="1">Genetics Engineer</li>
+      </ul>
+      <p><div banner-id="64881c1ce3ab46b26f8b458b" index="1" class="engagingGroupBanner"><div class="detail-info-banner" data-reactroot=""><div class="left-clm"><h4>Here&#x27;s How to Land a Top Software Developer Job</h4><span class="discription">Full Stack Development-MEAN</span><a href="https://www.simplilearn.com/full-stack-web-developer-mean-stack-certification-training?source=GhPreviewCTABanner" target="_blank" class="btn">Explore Program</a></div><div class="right-clm"><img class="lazy" width="16" height="9" src="https://www.simplilearn.com/ice9/assets/form_opacity.png" data-src="https://www.simplilearn.com/ice9/banners/free_resources_banners/lead_banners/Image_FSD_Mean_Stack.png" alt="Here&#x27;s How to Land a Top Software Developer Job"/></div></div></div></p>
+      
+      
+      </article></details><details><summary><article><h2 id="10_new_energy_solutions">10. New Energy Solutions</h2></summary>
+      <p>The world has agreed to be greener for the sake of its landscapes and the energy we use. This results in cars running on electricity or battery and houses using greener choices like solar and renewable energy. What’s even better is that people are conscious of their carbon footprints and waste; thus, minimizing it or turning those into renewable energy is even more helpful. </p>
+      <p>This gave rise to another technology trend -  energy solutions! This alternative energy arena is also boosting environment-related and data-oriented careers. These careers pertain to those in Science specializations and social science qualifications. Let’s take a look at the top jobs you can find in New Energy:</p>
+      <ul>
+      <li aria-level="1">Energy Specialist (Solar, Thermal, Hydro-power etc.)</li>
+      <li aria-level="1">Solar Plant Design Energy</li>
+      <li aria-level="1">Climate Strategy Specialist</li>
+      <li aria-level="1">Project Manager</li>
+      <li aria-level="1">Chemical Energy</li>
+      <li aria-level="1">Biotechnology Specialist</li>
+      <li aria-level="1">Renewable Energy Technologist</li>
+      </ul></article></details><details><summary><article><h2 id="11_robotic_process_automation_rpa">11. Robotic Process Automation (RPA)</h2></summary>
+      <p>Like AI and Machine Learning, Robotic Process Automation is another technology that automates jobs. RPA is the use of software to automate business processes such as interpreting applications, processing transactions, dealing with data, and even replying to emails. RPA automates repetitive tasks that people used to do. </p>
+      <p>Although Forrester Research estimates RPA automation will threaten the livelihood of <a href="https://www.cio.com/article/3124638/it-industry/why-bots-are-poised-to-disrupt-the-enterprise.html" target="_blank" rel="noopener" title="230 million or more">230 million or more</a> knowledge workers or approximately 9 percent of the global workforce, RPA is also creating new jobs while altering existing jobs. McKinsey finds that<a href="https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/four-fundamentals-of-workplace-automation" target="_blank" rel="nofollow noopener" title="less than 5 percent of occupations can be totally automated"> less than 5 percent of occupations can be totally automated</a>, but about 60 percent can be partially automated.</p>
+      <p>For you as an IT professional looking to the future and trying to understand latest technology trends, RPA offers plenty of career opportunities, including developer, project manager, business analyst, solution architect and consultant. And these jobs pay well- making it the next technology trend you must keep a watch on! Mastering RPA will help you secure high-paying jobs like:</p>
+      <ul>
+      <li aria-level="1">RPA Developer</li>
+      <li aria-level="1">RPA Analyst</li>
+      <li aria-level="1">RPA Architect</li>
+      </ul></article></details><details><summary><article><h2 id="12_edge_computing">12. Edge Computing</h2></summary>
+      <p>Formerly a new technology trend to watch, cloud computing has become mainstream, with major players AWS (Amazon Web Services), <a href="https://www.simplilearn.com/tutorials/azure-tutorial" target="_blank" rel="noopener" title="Microsoft Azure">Microsoft Azure</a> and <a href="https://www.simplilearn.com/google-cloud-platform-article" target="_blank" rel="noopener" title="Google Cloud Platform">Google Cloud Platform</a> dominating the market. The adoption of cloud computing is still growing, as more and more businesses migrate to a cloud solution. But it’s no longer the emerging technology trend. Edge is.</p>
+      <p>As the quantity of data organizations is dealing with continues to increase, they have realized the shortcomings of cloud computing in some situations. Edge computing is designed to help solve some of those problems as a way to bypass the latency caused by cloud computing and getting data to a data center for processing. It can exist “on the edge,” if you will, closer to where computing needs to happen. For this reason, edge computing can be used to process time-sensitive data in remote locations with limited or no connectivity to a centralized location. In those situations, edge computing can act like mini datacenters.</p>
+      <p>Keeping in line with cloud computing (including new-age edge and quantum computing) will help you grab amazing jobs like:</p>
+      <ul>
+      <li aria-level="1">Cloud Reliability Engineer</li>
+      <li aria-level="1">Cloud Infrastructure Engineer</li>
+      <li aria-level="1">Cloud Architect and Security Architect</li>
+      <li aria-level="1">DevOps Cloud Engineer</li>
+      </ul>
+      <p><div banner-id="648abdeaf04340f9568b456e" index="5" class="engagingGroupBanner"><div class="detail-info-banner" data-reactroot=""><div class="left-clm"><h4>Learn From The Best AWS Mentors!</h4><span class="discription">AWS Solutions Architect Certification Training</span><a href="https://www.simplilearn.com/cloud-computing/aws-solution-architect-associate-training?source=GhPreviewCTABanner" target="_blank" class="btn">Explore Program</a></div><div class="right-clm"><img class="lazy" width="16" height="9" src="https://www.simplilearn.com/ice9/assets/form_opacity.png" data-src="https://www.simplilearn.com/ice9/banners/free_resources_banners/lead_banners/AWS_Solutions_Architect_Certification_Training.png" alt="Learn From The Best AWS Mentors!"/></div></div></div></p>
+      
+      
+      </article></details><details><summary><article><h2 id="13_quantum_computing">13. Quantum Computing</h2></summary>
+      <p>The next remarkable technology trend is <a href="https://www.simplilearn.com/ai-and-blockchain-with-quantum-computing-article" target="_blank" rel="noopener" title="quantum computing">quantum computing</a>, which is a form of computing that takes advantage of quantum phenomena like superposition and quantum entanglement. This amazing technology trend is also involved in preventing the spread of the coronavirus, and to develop potential vaccines, thanks to its ability to easily query, monitor, analyze and act on data, regardless of the source. Another field where quantum computing is finding applications is banking and finance, to manage credit risk, for high-frequency trading and fraud detection.</p>
+      <p>Quantum computers are now a multitude times faster than regular computers and huge brands like Splunk, Honeywell, Microsoft, AWS, Google and many others are now involved in making innovations in the field of Quantum Computing. The revenues for the global quantum computing market are projected to surpass <a href="https://www.statista.com/statistics/1067216/global-quantum-computing-revenues/" target="_blank" rel="nofollow noopener" title="$2.5 billion by 2029.">$2.5 billion by 2029.</a> And to make a mark in this new trending technology, you need to have experience with quantum mechanics, linear algebra, probability, information theory, and machine learning.</p>
+      
+      
+      </article></details><details><summary><article><h2 id="14_virtual_reality_and_augmented_reality">14. Virtual Reality and Augmented Reality</h2></summary>
+      <p>The next exceptional technology trend - Virtual Reality (VR) and Augmented Reality (AR), and Extended Reality (ER). VR immerses the user in an environment while AR enhances their environment. Although this technology trend has primarily been used for gaming thus far, it has also been used for training, as with<a href="https://gdit.com/maritime-simulation-virtualship" target="_blank" rel="nofollow noopener" title="VirtualShip"> VirtualShip</a>, a simulation software used to train U.S. Navy, Army and Coast Guard ship captains.</p>
+      <p>In 2024, we can expect these forms of technologies being further integrated into our lives. Usually working in tandem with some of the other emerging technologies we’ve mentioned in this list, AR and VR have enormous potential in training, entertainment, education, marketing, and even rehabilitation after an injury. Either could be used to train doctors to do surgery, offer museum goers a deeper experience, enhance theme parks, or even enhance marketing, as with this<a href="https://www.youtube.com/watch?v=Go9rf9GmYpM&amp;feature=youtu.be" target="_blank" rel="nofollow noopener" title="Pepsi Max bus shelter"> Pepsi Max bus shelter</a>.</p>
+      <p>While some employers might look for optics as a skill-set, note that getting started in VR doesn’t require a lot of specialized knowledge - basic <a href="https://www.simplilearn.com/programming-bootcamp-article" target="_blank" rel="noopener" title="programming skills">programming skills</a> and a forward-thinking mindset can land a job; another reason why this new technology trend should make up to your list of lookouts!</p>
+      
+      
+      </article></details><details><summary><article><h2 id="15_blockchain">15. Blockchain</h2></summary>
+      <p>Although most people think of <a href="https://www.simplilearn.com/tutorials/blockchain-tutorial/blockchain-technology" target="_blank" rel="noopener" title="blockchain technology">blockchain technology</a> in relation to cryptocurrencies such as Bitcoin, blockchain offers security that is useful in many other ways. In simplest terms, blockchain can be described as data you can only add to, not take away from, or change. Hence the term “chain” because you’re making a chain of data. Not being able to change the previous blocks is what makes it so secure. In addition, blockchains are consensus-driven, so no one entity can take control of the data. With blockchain, you don’t need a trusted third party to oversee or validate transactions.</p>
+      <p>Several industries are involving and implementing blockchain, and as blockchain technology&#x27;s use increases, so does the demand for skilled professionals. From a birds eye view, a <a href="https://www.simplilearn.com/tutorials/blockchain-tutorial/how-to-become-a-blockchain-developer" target="_blank" rel="noopener" title="blockchain developer">blockchain developer</a> specializes in developing and implementing architecture and solutions using blockchain technology. </p>
+      <p>If you are intrigued by <a href="https://www.simplilearn.com/promising-uses-of-blockchain-article" target="_blank" rel="noopener" title="Blockchain and its applications">Blockchain and its applications</a> and want to make your career in this trending technology, then this is the right time to start. To get into Blockchain, you need hands-on experience in programming languages, OOPS fundamentals, flat and relational databases, data structures, web app development, and networking. Mastering blockchain can help you scale up in a variety of fields and industries:</p>
+      <ul>
+      <li aria-level="1">Risk Analyst</li>
+      <li aria-level="1">Tech Architect</li>
+      <li aria-level="1">Crypto Community Manager</li>
+      <li aria-level="1">Front End Engineer</li>
+      </ul>
+      <p><div banner-id="64881ca9e3ab4638048b4567" index="2" class="engagingGroupBanner"><div class="detail-info-banner" data-reactroot=""><div class="left-clm"><h4>Basics to Advanced - Learn It All!</h4><span class="discription">Caltech PGP Full Stack Development</span><a href="https://www.simplilearn.com/pgp-full-stack-web-development-certification-training-course?source=GhPreviewCTABanner" target="_blank" class="btn">Explore Program</a></div><div class="right-clm"><img class="lazy" width="16" height="9" src="https://www.simplilearn.com/ice9/assets/form_opacity.png" data-src="https://www.simplilearn.com/ice9/banners/free_resources_banners/lead_banners/Caltech_PGP_Full_Stack_Development_New.png" alt="Basics to Advanced - Learn It All!"/></div></div></div></p>
+      
+      
+      </article></details><details><summary><article><h2 id="16_internet_of_things_iot">16. Internet of Things (IoT)</h2></summary>
+      <p>Another promising new technology trend is IoT. Many “things” are now being built with WiFi connectivity, meaning they can be connected to the Internet—and to each other. Hence, the Internet of Things, or IoT. The <a href="https://www.simplilearn.com/what-is-iot-how-and-why-it-matters-article" target="_blank" rel="noopener" title="Internet of Things">Internet of Things</a> is the future, and has already enabled devices, home appliances, cars and much more to be connected to and exchange data over the Internet.</p>
+      <p>As consumers, we’re already using and benefitting from IoT. We can lock our doors remotely if we forget to when we leave for work and preheat our ovens on our way home from work, all while tracking our fitness on our Fitbits. However, <a href="https://www.simplilearn.com/ways-businesses-use-iot-article" target="_blank" rel="noopener" title="businesses">businesses </a>also have much to gain now and in the near future. The IoT can enable better safety, efficiency and decision making for businesses as data is collected and analyzed. It can enable predictive maintenance, speed up medical care, improve customer service, and offer benefits we haven’t even imagined yet.</p>
+      <p>And we’re only in the beginning stages of this new technology trend: Forecasts suggest that by 2030 around <a href="https://www.statista.com/statistics/802690/worldwide-connected-devices-by-access-technology/" target="_blank" rel="nofollow noopener" title="50 billion">50 billion </a>of these IoT devices will be in use around the world, creating a massive web of interconnected devices spanning everything from smartphones to kitchen appliances. And if you wish to step foot in this trending technology, you will have to learn about Information security, AI and machine learning fundamentals, networking, hardware interfacing, <a href="https://www.simplilearn.com/learn-data-analytics-for-beginners-skillup" target="_blank" rel="noopener" title="data analytics">data analytics</a>, automation, understanding of embedded systems, and must have device and design knowledge.</p>
+      
+      
+      </article></details><details><summary><article><h2 id="17_5g">17. 5G</h2></summary>
+      <p>The next technology trend that follows the IoT is 5G. Where 3G and 4G technologies have enabled us to browse the internet, use data-driven services, increased bandwidths for streaming on Spotify or YouTube and so much more, 5G services are expected to revolutionize our lives. By enabling services that rely on advanced technologies like AR and VR, alongside cloud-based gaming services like Google Stadia, NVidia GeForce Now and much more. It is expected to be used in factories, HD cameras that help improve safety and traffic management, smart grid control and smart retail too.</p>
+      <p>Just about every telecom company like Verizon, Tmobile, Apple, Nokia Corp, QualComm, are now working on creating 5G applications. 5G Network subscriptions will reach <a href="https://www.ericsson.com/en/reports-and-papers/mobility-report/dataforecasts/mobile-subscriptions-outlook" target="_blank" rel="nofollow noopener" title="4.4 billion by the end of 2027">4.4 billion by the end of 2027</a>, making it an emerging technology trend you must watch out for, and also save a spot in.</p>
+      
+      
+      </article></details><details><summary><article><h2 id="18_cyber_security">18. Cyber Security</h2></summary>
+      <p>Cyber security might not seem like an emerging new technology trend, given that it has been around for a while, but it is evolving just as other technologies are. That’s in part because threats are constantly new. The malevolent hackers trying to access data illegally will not give up any time soon, and they will continue to find ways to get through even the toughest security measures. It’s also partly because new technology is being adapted to enhance security. As long as we have hackers, <a href="https://www.simplilearn.com/tutorials/cyber-security-tutorial" target="_blank" rel="noopener" title="cybersecurity">cybersecurity</a> will remain a trending technology because it will constantly evolve to defend against those hackers.</p>
+      <p><a href="https://www.gartner.com/en/articles/the-top-8-cybersecurity-predictions-for-2021-2022" target="_blank" rel="noopener" title="According to Gartner">According to Gartner</a>, by 2025, 60% of organizations will use cybersecurity risk as a primary determinant in conducting third-party transactions and business engagements. You must note that however challenging the field is it also offers lucrative six-figure incomes, and roles can range from </p>
+      <ul>
+      <li aria-level="1">Ethical Hacker </li>
+      <li aria-level="1">Malware Analyst</li>
+      <li aria-level="1">Security Engineer </li>
+      <li aria-level="1">Chief Security Officer</li>
+      </ul>
+      <p>offering a promising career path for someone who wants to get into and stick with this new trending technology. </p>
+      <p><div banner-id="648abea7f04340fa568b456b" index="6" class="engagingGroupBanner"><div class="detail-info-banner" data-reactroot=""><div class="left-clm"><h4>Become an Expert in the Cyber Security Field</h4><span class="discription">Post Graduate Program In Cyber Security</span><a href="https://www.simplilearn.com/pgp-cyber-security-certification-training-course?source=GhPreviewCTABanner" target="_blank" class="btn">Explore Program</a></div><div class="right-clm"><img class="lazy" width="16" height="9" src="https://www.simplilearn.com/ice9/assets/form_opacity.png" data-src="https://www.simplilearn.com/ice9/banners/free_resources_banners/lead_banners/GenAi_2.png" alt="Become an Expert in the Cyber Security Field"/></div></div></div></p>
+      </details>
+      
+      </blockquote>
+    </body>
+      </html>
